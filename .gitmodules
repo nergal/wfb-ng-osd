@@ -1,6 +1,6 @@
 [submodule "mavlink"]
 	path = mavlink
 	url = https://github.com/mavlink/c_library_v2.git
-[submodule "ShivaVG"]
-	path = ShivaVG
-	url = https://github.com/ileben/ShivaVG.git
+[submodule "amanithvg-sdk"]
+	path = amanithvg-sdk
+	url = https://github.com/Mazatech/amanithvg-sdk.git

@@ -34,8 +34,8 @@
 
 #ifdef __BCM_OPENVG__
 #include <bcm_host.h>
-#include "ShivaVG/include/vg/openvg.h"
-#include "ShivaVG/include/vg/vgu.h"
+#include <VG/openvg.h>
+#include <VG/vgu.h>
 #include <EGL/egl.h>
 #include <EGL/eglext.h>
 #include "eglstate.h"
